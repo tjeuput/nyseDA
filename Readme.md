@@ -9,7 +9,7 @@ The data for this project was sourced from Kaggle's New York Stock Exchange S&P 
 
 ### Methodology
 The project mainly involves leveraging spreadsheet applications such as Google Sheets or Microsoft Excel to:
-![st1_commuteTime.png](st1_commuteTime.png)
+![nyse1.gif](nyse1.gif)
 
 Compute and interpret measures of central tendency and spread (mean, median, standard deviation, range).
 Utilize spreadsheet functions (e.g., IF statements, INDEX, and MATCH, calculating descriptive statistics with the IF statement, dropdowns, data validation, VLOOKUP).
